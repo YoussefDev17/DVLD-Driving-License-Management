@@ -1,0 +1,9 @@
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\bin\Debug\ApplicationTier.dll
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\bin\Debug\ApplicationTier.pdb
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\bin\Debug\DataBaseTier.dll
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\bin\Debug\DataBaseTier.pdb
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Debug\ApplicationTier.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Debug\ApplicationTier.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Debug\ApplicationTier.dll
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Debug\ApplicationTier.pdb
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Debug\Applicat.27915297.Up2Date

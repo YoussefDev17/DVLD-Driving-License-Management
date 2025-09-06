@@ -1,0 +1,9 @@
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\bin\Release\ApplicationTier.dll
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\bin\Release\ApplicationTier.pdb
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\bin\Release\DataBaseTier.dll
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\bin\Release\DataBaseTier.pdb
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Release\ApplicationTier.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Release\ApplicationTier.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Release\ApplicationTier.csproj.CopyComplete
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Release\ApplicationTier.dll
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\ApplicationTier\obj\Release\ApplicationTier.pdb

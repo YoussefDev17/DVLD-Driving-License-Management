@@ -1,0 +1,6 @@
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\DataBaseTier\bin\Release\DataBaseTier.dll
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\DataBaseTier\bin\Release\DataBaseTier.pdb
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\DataBaseTier\obj\Release\DataBaseTier.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\DataBaseTier\obj\Release\DataBaseTier.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\DataBaseTier\obj\Release\DataBaseTier.dll
+C:\Users\pc\OneDrive\Bureau\programming\Course 19\DataBaseTier\obj\Release\DataBaseTier.pdb
